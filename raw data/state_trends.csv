@@ -1,0 +1,49 @@
+state,state_code,population,sq_miles,pop_density,region,psych_region,psy_reg,extraversion,agreeableness,conscientiousness,neuroticism,openness,data_science,artificial_intelligence,machine_learning,data_analysis,business_intelligence,spreadsheet,statistics,art,dance,museum,basketball,football,baseball,soccer,hockey,has_nba,has_nfl,has_mlb,has_mls,has_nhl,has_any
+Alabama,AL,5024279,52420,96,South,Friendly and Conventional,Friendly,55.5,52.7,55.5,48.7,42.7,20,23,23,35,36,66,46,65,65,19,55,100,58,46,7,No,No,No,No,No,No
+Arizona,AZ,7151502,113990,63,West,Relaxed and Creative,Creative,50.6,46.6,58.4,38.1,54.7,26,26,34,35,50,66,53,78,69,26,33,33,37,61,12,Yes,Yes,Yes,No,Yes,Yes
+Arkansas,AR,3011524,53179,57,South,Friendly and Conventional,Friendly,49.9,52.7,41.0,56.2,40.3,25,23,22,40,58,63,50,72,61,20,61,52,89,41,4,No,No,No,No,No,No
+California,CA,39538223,163695,242,West,Relaxed and Creative,Creative,51.4,49.0,43.2,39.1,65.0,57,40,80,46,57,77,62,84,70,25,21,20,33,83,8,Yes,No,Yes,Yes,Yes,Yes
+Colorado,CO,5773714,104094,55,West,Friendly and Conventional,Friendly,45.3,47.5,58.8,34.3,57.9,37,26,41,35,64,82,62,85,78,29,31,33,31,71,22,Yes,Yes,Yes,Yes,Yes,Yes
+Connecticut,CT,3605944,5543,650,Northeast,Temperamental and Uninhibited,Uninhibited,57.6,38.6,34.2,53.4,53.9,38,32,45,40,53,68,65,80,74,31,45,23,39,91,34,No,No,No,No,No,No
+Delaware,DE,989948,2489,398,South,Temperamental and Uninhibited,Uninhibited,47.0,38.8,36.5,62.4,42.7,36,33,42,43,46,63,72,72,70,26,35,34,37,65,18,No,No,No,No,No,No
+Florida,FL,21538187,65758,328,South,Friendly and Conventional,Friendly,60.9,50.7,62.7,40.8,61.0,28,29,26,35,50,58,54,77,69,24,26,37,35,70,11,Yes,Yes,Yes,Yes,Yes,Yes
+Georgia,GA,10711908,59425,180,South,Friendly and Conventional,Friendly,63.2,60.0,68.8,38.0,56.9,34,29,38,38,59,65,49,71,69,21,35,61,38,62,6,Yes,Yes,Yes,Yes,No,Yes
+Idaho,ID,1839106,83569,22,West,Relaxed and Creative,Creative,40.7,52.9,44.5,44.2,44.7,22,25,25,33,54,61,66,82,77,17,35,41,28,65,11,No,No,No,No,No,No
+Illinois,IL,12812508,57914,221,Midwest,Friendly and Conventional,Friendly,62.5,48.3,50.9,51.2,55.2,46,30,46,40,77,69,53,74,78,32,45,30,41,74,18,Yes,Yes,Yes,Yes,Yes,Yes
+Indiana,IN,6785528,36420,186,Midwest,Friendly and Conventional,Friendly,48.9,50.2,56.2,59.3,44.9,30,24,37,35,48,59,56,74,68,26,74,40,40,65,11,Yes,Yes,No,No,No,Yes
+Iowa,IA,3190369,56273,57,Midwest,Friendly and Conventional,Friendly,62.8,56.6,52.2,49.1,33.7,25,22,31,38,66,80,58,69,74,21,88,77,51,67,14,No,No,No,No,No,No
+Kansas,KS,2937880,82278,36,Midwest,Friendly and Conventional,Friendly,45.5,48.9,50.8,49.0,40.1,24,26,26,38,65,79,62,80,70,26,81,47,47,80,8,No,No,No,Yes,No,Yes
+Kentucky,KY,4505836,40408,112,South,Friendly and Conventional,Friendly,53.4,48.1,51.3,62.5,43.0,19,23,20,31,49,62,53,71,65,24,100,47,39,58,7,No,No,No,No,No,No
+Louisiana,LA,4657757,52378,89,South,Friendly and Conventional,Friendly,52.2,49.7,45.0,60.4,53.7,18,24,20,29,29,64,41,68,73,27,32,51,63,44,4,Yes,Yes,No,No,No,Yes
+Maine,ME,1362359,35380,39,Northeast,Temperamental and Uninhibited,Uninhibited,44.2,32.8,24.0,71.0,50.8,20,23,19,30,34,67,56,85,70,34,27,21,30,60,36,No,No,No,No,No,No
+Maryland,MD,6177224,12406,498,South,Temperamental and Uninhibited,Uninhibited,35.2,37.3,37.5,49.4,56.6,51,43,61,64,59,73,66,76,73,33,38,30,31,87,13,No,Yes,Yes,No,No,Yes
+Massachusetts,MA,7029917,10554,666,Northeast,Temperamental and Uninhibited,Uninhibited,44.4,40.7,32.2,63.8,59.6,74,45,100,62,67,77,73,78,76,40,27,24,37,96,52,Yes,Yes,Yes,Yes,Yes,Yes
+Michigan,MI,10077331,96714,104,Midwest,Friendly and Conventional,Friendly,55.2,54.7,53.0,48.6,43.4,32,26,34,36,55,66,54,89,70,21,53,56,31,64,30,Yes,Yes,Yes,No,Yes,Yes
+Minnesota,MN,5706494,86936,66,Midwest,Friendly and Conventional,Friendly,52.9,61.6,52.5,43.4,38.5,35,25,35,33,82,85,57,78,77,23,40,38,42,76,100,Yes,Yes,Yes,Yes,Yes,Yes
+Mississippi,MS,2961279,48432,61,South,Friendly and Conventional,Friendly,56.8,63.3,59.7,52.0,46.2,20,27,20,33,27,53,46,68,63,21,46,75,100,44,5,No,No,No,No,No,No
+Missouri,MO,6154913,69707,88,Midwest,Friendly and Conventional,Friendly,62.9,59.3,60.8,48.3,45.7,26,24,28,31,56,71,54,80,75,28,41,33,50,74,20,No,Yes,Yes,No,Yes,Yes
+Montana,MT,1084225,147040,7,West,Friendly and Conventional,Friendly,33.1,52.3,56.1,43.0,55.0,22,18,20,29,34,72,57,78,59,26,41,42,28,47,18,No,No,No,No,No,No
+Nebraska,NE,1961504,77348,25,Midwest,Friendly and Conventional,Friendly,60.0,62.9,64.3,41.6,34.3,22,22,22,35,45,66,55,70,74,27,73,90,68,80,19,No,No,No,No,No,No
+Nevada,NV,3104614,110572,28,West,Relaxed and Creative,Creative,46.4,31.8,55.8,44.0,61.3,19,26,23,27,33,63,44,74,68,33,33,27,34,67,19,No,Yes,No,No,Yes,Yes
+New Hampshire,NH,1377529,9349,147,Northeast,Temperamental and Uninhibited,Uninhibited,40.2,53.5,38.0,61.8,48.7,30,27,40,38,47,73,57,75,81,27,24,23,33,69,46,No,No,No,No,No,No
+New Jersey,NJ,9288994,8723,1065,Northeast,Temperamental and Uninhibited,Uninhibited,59.9,44.6,40.8,56.4,57.6,56,42,61,48,68,63,55,74,74,24,33,26,38,100,20,No,Yes,No,Yes,Yes,Yes
+New Mexico,NM,2117522,121590,17,West,Relaxed and Creative,Creative,32.4,45.4,58.5,51.6,62.0,20,23,33,33,26,52,55,86,65,33,38,29,29,62,7,No,No,No,No,No,No
+New York,NY,20201249,54555,370,Northeast,Temperamental and Uninhibited,Uninhibited,47.0,29.8,37.7,62.7,64.5,67,56,83,63,67,76,62,80,69,41,31,19,32,79,22,Yes,Yes,Yes,Yes,Yes,Yes
+North Carolina,NC,10439388,53819,194,South,Relaxed and Creative,Creative,51.0,63.6,68.4,44.8,49.6,39,29,39,40,54,72,56,73,71,25,60,44,47,70,11,Yes,Yes,No,No,Yes,Yes
+North Dakota,ND,779094,70698,11,Midwest,Friendly and Conventional,Friendly,52.4,52.4,51.4,49.6,21.8,17,25,22,35,51,78,54,73,66,14,46,48,37,48,88,No,No,No,No,No,No
+Ohio,OH,11799448,44826,263,Midwest,Temperamental and Uninhibited,Uninhibited,54.6,45.9,46.5,58.5,46.0,25,27,29,35,50,70,54,75,68,25,44,54,39,69,15,Yes,Yes,Yes,Yes,Yes,Yes
+Oklahoma,OK,3959353,69899,57,South,Friendly and Conventional,Friendly,39.7,54.3,54.7,52.1,42.2,22,21,20,29,41,72,49,72,64,26,41,63,46,61,6,Yes,No,No,No,No,Yes
+Oregon,OR,4237256,98379,43,West,Relaxed and Creative,Creative,30.9,59.1,45.8,39.5,58.8,28,27,35,31,62,83,57,100,75,23,33,35,36,68,7,Yes,No,No,Yes,No,Yes
+Pennsylvania,PA,13002700,46054,282,Northeast,Temperamental and Uninhibited,Uninhibited,54.6,42.8,52.4,61.4,49.6,37,31,47,38,53,65,63,72,69,27,37,41,41,80,25,Yes,Yes,Yes,Yes,Yes,Yes
+Rhode Island,RI,1097379,1545,710,Northeast,Temperamental and Uninhibited,Uninhibited,43.3,35.2,48.5,61.9,59.4,44,33,48,45,47,67,63,78,74,33,39,21,34,75,32,No,No,No,No,No,No
+South Carolina,SC,5118425,32020,160,South,Friendly and Conventional,Friendly,60.0,55.4,69.6,45.7,55.3,19,25,20,32,43,63,52,72,69,20,41,67,52,58,8,No,No,No,No,No,No
+South Dakota,SD,886667,77116,11,Midwest,Friendly and Conventional,Friendly,58.7,56.7,55.8,36.1,41.9,24,20,19,31,45,76,52,70,67,23,59,50,43,54,25,No,No,No,No,No,No
+Tennessee,TN,6910840,42144,164,South,Friendly and Conventional,Friendly,51.3,66.6,62.0,49.0,50.1,22,21,23,28,52,59,47,67,65,26,56,61,49,61,9,Yes,Yes,No,Yes,Yes,Yes
+Texas,TX,29145505,268596,109,South,Temperamental and Uninhibited,Uninhibited,55.2,52.3,54.4,44.3,52.7,37,30,42,40,68,78,50,74,67,21,29,40,41,71,7,Yes,Yes,Yes,Yes,Yes,Yes
+Utah,UT,3271616,84897,39,West,Relaxed and Creative,Creative,55.8,69.4,54.5,30.4,47.7,30,26,35,38,54,88,61,89,100,23,33,44,29,83,11,Yes,No,No,Yes,No,Yes
+Vermont,VT,643077,9616,67,Northeast,Temperamental and Uninhibited,Uninhibited,26.5,60.0,38.2,55.8,54.2,31,25,30,35,37,84,67,92,79,36,32,19,30,76,48,No,No,No,No,No,No
+Virginia,VA,8631393,42775,202,South,Relaxed and Creative,Creative,48.5,47.4,45.3,44.7,57.1,55,44,68,56,81,82,65,74,74,34,43,39,36,80,13,No,No,No,No,No,No
+Washington,WA,7705281,71298,108,West,Relaxed and Creative,Creative,30.6,55.8,45.0,36.9,56.6,51,33,73,41,100,75,55,85,66,28,29,28,27,67,11,No,Yes,Yes,Yes,Yes,Yes
+West Virginia,WV,1793716,24230,74,South,Temperamental and Uninhibited,Uninhibited,38.5,51.8,42.6,79.2,36.8,17,20,19,30,24,49,55,66,65,16,75,61,41,55,8,No,No,No,No,No,No
+Wisconsin,WI,5893718,65496,90,Midwest,Friendly and Conventional,Friendly,69.8,57.8,47.6,48.6,35.7,24,22,24,29,59,71,53,81,72,28,51,38,42,61,29,Yes,Yes,Yes,No,No,Yes
+Wyoming,WY,576851,97813,6,West,Friendly and Conventional,Friendly,46.0,40.7,42.4,46.1,42.4,17,20,19,29,24,61,53,78,65,29,37,43,27,47,19,No,No,No,No,No,No

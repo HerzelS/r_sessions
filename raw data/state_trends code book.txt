@@ -1,0 +1,79 @@
+STATE DATA CODE BOOK
+============================================================
+
+This dataset was compiled by Barton Poulson for demonstration purposes. It includes four categories of data for the 48 contiguous United States. 
+
+SAMPLING NOTE: My goal was to make comparisons for the entire United States. However, the source for personality data did not report data for Alaska, Hawaii, or the District of Columbia. As a result, they were excluded from this dataset, leaving the 48 contiguous states in the dataset.
+
+1. GEOGRAPHIC DATA
+
+- State: The common name of the states
+
+- state_code: The two-letter ANSI codes that are also used by the United States Postal Service. (Source: https://en.wikipedia.org/wiki/List_of_U.S._state_abbreviations. Retrieved 2022-10-18.)
+
+- population: Population values from the 2020 US Census. (Source: https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population. Retrieved 2022-10-18.)
+
+- sq_miles: Total area (land and water) in square miles. (Source: https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_area. Retrieved 2022-10-18.)
+
+- pop_density: Population per square mile. Calculated from the two previous variables.
+
+- region: The 48 states are divided into the four Census Bureau-designated regions and divisions: Northeast, Midwest, South, and West (Source: http://en.wikipedia.org/wiki/United_States_regions. Retrieved 2022-10-18.)
+
+2. PERSONALITY DATA
+
+- psych_region: Three state-level personality profiles, coded as "Friendly and Conventional,""Relaxed and Creative," or "Temperamental and Uninhibited".
+
+- psy_reg: Shortened labels for the previous variable, coded as "Friendly," "Creative," or "Uninhibited."
+
+The next five personality variables are common psychological measures known as the Big Five Personality Traits (see https://en.wikipedia.org/wiki/Big_Five_personality_traits). As is common with personality measures, the data are reported as T-scores, or scores that are standardized so that the mean is 50 and the standard deviation is 10 for each variable.
+
+- extraversion: Extraversion (outgoing/energetic vs. solitary/reserved)
+
+- agreeableness: Agreeableness (friendly/compassionate vs. challenging/detached)
+
+- conscientiousness: Conscientiousness (efficient/organized vs. easy-going/careless)
+
+- neuroticism: Neuroticism (sensitive/nervous vs. secure/confident)
+
+- openness: Openness to experience (inventive/curious vs. consistent/cautious)
+
+
+(Note: Alaska, Hawaii, and the District of Columbia did not have data on the psychological regions and so they were excluded from this dataset. Source: "Divided We Stand: Three Psychological Regions of the United States and Their Political, Economic, Social, and Health Correlates." Rentfrow et al. 2013. http://www.apa.org/pubs/journals/releases/psp-a0034434.pdf. Retrieved 2018-07-26.)
+
+3. GOOGLE TRENDS SEARCH DATA
+
+These scores indicate the relative popularity of the search term on state-by-state basis in the US over a five year period from 2017-10-18 to 2022-10-18. The data is reported on a 0-100 scale. States with a higher score used that search term in a higher proportion of their Google searches than did other states; in each case, the area that had the highest relative popularity for that term received a score of 100. Note that the original search terms did not include underscores.
+
+- data_science
+- artificial_intelligence
+- machine_learning
+- data_analysis
+- business_intelligence
+- spreadsheet
+- statistics
+- art
+- dance
+- museum
+- basketball
+- football
+- baseball
+- soccer
+- hockey
+
+(Source: https://trends.google.com. Retrieved 2022-10-18.)
+
+4. SPORTS TEAMS
+
+Several variables show whether a state has a top-level professional team in five sports. 0 = no, 1 = yes.
+
+- has_nba: Does the state have at least one NBA basketball team
+- has_nfl: Does the state have at least one NFL (American) football team
+- has_mlb: Does the state have at least one MLB baseball team
+- has_mls: Does the state have at least one MLS soccer team
+- has_any: Does the state have at least one of the above professional teams
+
+DATA SETS
+
+- The file "state_trends.csv" contains a single sheet in comma-separated value format with just the above variables for the 48 contiguous United States.
+
+- The file "state_trends.xlsx" is a Microsoft Excel spreadsheet with the same data as "state_trends.csv," but also a tab with additional data for Alaska, Hawaii, and Washington, D.C., as well as several Google Trends searches that had incomplete data and the number of sports teams in each state. This file also contains the data source information and links.
